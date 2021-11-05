@@ -8,6 +8,7 @@ seo:
   robots: []
   extra: []
 layout: page
+image: /images/fondo inicio 1.jpg
 ---
 ## Lorem ipsum
 
